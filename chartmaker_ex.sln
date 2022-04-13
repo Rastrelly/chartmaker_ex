@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chartmaker_ex", "chartmaker_ex\chartmaker_ex.vcxproj", "{A340EDE5-FBB3-42EE-8CE8-32012DEE8CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A340EDE5-FBB3-42EE-8CE8-32012DEE8CBF}.Debug|x64.ActiveCfg = Debug|x64
+		{A340EDE5-FBB3-42EE-8CE8-32012DEE8CBF}.Debug|x64.Build.0 = Debug|x64
+		{A340EDE5-FBB3-42EE-8CE8-32012DEE8CBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A340EDE5-FBB3-42EE-8CE8-32012DEE8CBF}.Debug|x86.Build.0 = Debug|Win32
+		{A340EDE5-FBB3-42EE-8CE8-32012DEE8CBF}.Release|x64.ActiveCfg = Release|x64
+		{A340EDE5-FBB3-42EE-8CE8-32012DEE8CBF}.Release|x64.Build.0 = Release|x64
+		{A340EDE5-FBB3-42EE-8CE8-32012DEE8CBF}.Release|x86.ActiveCfg = Release|Win32
+		{A340EDE5-FBB3-42EE-8CE8-32012DEE8CBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC44D745-16DE-42F2-8299-1CC63246BC20}
+	EndGlobalSection
+EndGlobal
